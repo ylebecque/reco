@@ -8,6 +8,10 @@ def load_df():
     return pd.read_csv("movies list def 2.csv")
 
 
+def bar():
+    pass
+
+
 # df_list bien chargée sur la page d'accueil ?
 if "df_list" in st.session_state:
     df_list = st.session_state["df_list"]
