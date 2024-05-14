@@ -10,6 +10,8 @@ def load_df():
 
 def bar():
     pass
+def foo():
+    pass
 
 
 # df_list bien chargée sur la page d'accueil ?
