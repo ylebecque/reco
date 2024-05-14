@@ -8,7 +8,11 @@ def load_df():
     return pd.read_csv("movies list def 2.csv")
 
 
+
 def foo():
+    pass
+  
+def bar():
     pass
 
 
